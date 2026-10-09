@@ -1,8 +1,1 @@
-Write your reflection here.
-
-See reflection.md for what makes a good reflection — be specific, use the
-terminology from this assignment (lineage, grain, element function, Series.apply,
-row apply / axis=1, left merge, NaN, coerce, copy-add-return, boolean index,
-export), and make it actionable.
-
-I learned a lot about how to merge. At first, I didn't really understand merging. I understood the idea of a key and being able to put two tables together but I didn't understand the different merge methods. Being able to experiment with it was very beneficial for me because I slowly undersotod what was happening. I got to try all of the merge methods and kept experimenting until it worked, this did take a lot of failure. Looking forward, I would like to try examples with other merge methods as well as understand other concepts related like combining databases in SQL.
+I learned a lot about how to merge. At first, I didn't really understand merging. I understood the idea of a key and being able to put two tables together but I didn't understand the different merge methods. Being able to experiment with it was very beneficial for me because I slowly undersotod what was happening. I got to try all of the merge methods and kept experimenting until it worked. It did take a lot of failure. Looking forward, I would like to try examples with other merge methods as well as understand other concepts related like combining databases in SQL. I would like to practice using the outer and cross merges because they confused me when I started doing research and reading documentation.
